@@ -6,4 +6,9 @@ You are NOT allowed to re-distribute our template ZIP file for any reason on you
 
 You can feature our templates on your blog posts that collect good templates. You can put a screenshot and a link back to our template page. That is helpful for us.
 
+git status → 변경된 파일 확인
+git add . → 모든 변경 사항 추가
+git commit -m "수정한 내용" → 변경 사항 저장
+git push origin main
+
 THANK YOU
