@@ -1,0 +1,42 @@
+.parallax-window {
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+  }
+
+  @media (max-width: 768px) {
+    .tm-container {
+      padding: 24px 16px;
+    }
+    .tm-item-container {
+      padding: 16px;
+      margin: 16px 0;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .flex-col {
+      flex-direction: column;
+    }
+    .lg\:flex-row {
+      flex-direction: column;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .tm-menu-item img,
+    .tm-menu-item-2 img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .text-right {
+      text-align: left;
+    }
+    .mr-6 {
+      margin-right: 0;
+      margin-left: 16px;
+    }
+  }
